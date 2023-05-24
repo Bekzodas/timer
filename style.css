@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.display {
+  font-size: 100px;
+  font-weight: bold;
+  border: solid 1px black;
+  color: black;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.label {
+  font-size: 20px;
+  font-weight: bold;
+}
